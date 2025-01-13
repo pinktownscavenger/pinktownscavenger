@@ -1,43 +1,51 @@
-<h2 align="center">hello world!</h2>
+<h1 align="left">Hello World!</h1>
 
 ###
 
-<p align="left">I’m Bilal, a passionate computer science student with a strong foundation in problem-solving.<br><br>💻 Programming Expertise: Proficient in Python and C#.<br>🧠 Specializations: Experienced in data science, AI/ML, and modern web development.<br>🌐 Tech Enthusiast: Dedicated to leveraging technology to create impactful solution.<br><br>Let’s connect and collaborate on meaningful projects!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+<p align="left">I’m Bilal, a passionate computer science student with a strong foundation in problem-solving.<br><br>💻 Programming Expertise: Proficient in Python and C#.<br>🧠 Specializations: Experienced in data science, AI/ML, and modern web development.<br>🌐 Tech Enthusiast: Dedicated to leveraging technology to create impactful solution.</p>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pinktownscavenger&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinktownscavenger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinktownscavenger&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bilalmalik01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@bilal-pw4pm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
 </div>
+
+###
+
+<h3 align="left">Get In Touch</h3>
+
+I am always open to connecting and discussing opportunities. You can also contact me via:
+
+- Email : [bilalmalik1548@gmail.com](mailto:bilalmalik1548@gmail.com)
+- LinkedIn : [Bilal Malik](https://www.linkedin.com/in/bilalmalik01/)
+- Personal Site : [Portfolio](https://pinktownscavenger.github.io/)
 
 ###
